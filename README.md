@@ -6,12 +6,12 @@ This will create necessary tables and insert sample data into it.
 
 ##Change the settings
 You need to change the following database settings in database.php
-<pre><code>
+<pre>
   private $host = "localhost";
 	private $user = "root";
 	private $password = "root";
 	private $database = "crud";
-</code></pre>
+</pre>
 
 ##Run the program
 Copy the project into your PHP servers root directory and access the index.php
