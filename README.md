@@ -5,7 +5,7 @@ Import books.sql into your MySQL
 This will create necessary tables and insert sample data into it.
 
 ##Change the settings
-You need to change the following database settings in *database.php*
+You need to change the following database settings in **database.php**
 <pre>
   private $host = "localhost";
 	private $user = "root";
