@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS `books` (
 -- Dumping data for table `books`
 --
 
-INSERT INTO `books` (`name`) VALUES
+INSERT INTO `books` (`name`,`author`) VALUES
 ('What young India wants', 'Chetan Bhagat'),
 ('Two States', 'Chetan Bhagat'),
 ('The hunger games', 'Suzanne Collions'),
