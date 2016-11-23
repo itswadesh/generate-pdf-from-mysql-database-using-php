@@ -1,5 +1,6 @@
 # generate-pdf-from-mysql-database-using-php
 
+The full tutorial can be foud @ http://angularcode.com/generate-pdf-using-php-mysql/
 ##Import data
 Import books.sql into your MySQL
 This will create necessary tables and insert sample data into it.
